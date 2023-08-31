@@ -22,11 +22,7 @@ function Career() {
             <br></br>
             <br></br>
             <p>We're looking for seasoned full stack engineers with experience in building highly scalable web applications with rich interactive experiences. This team is central to Guvi's growth and success. We address a wide array of computer science areas including advanced web applications, brilliant user interfaces, scalability and performance of applications, intelligent search algorithms, global data distribution, and monitoring of distributed systems. If you truly are the master of all trades then this is your calling!</p>       
-            
-
-
-            <h1>GUVI on the web</h1>
-            
+                       
         </div>
     )
 }
